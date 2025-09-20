@@ -1,0 +1,8 @@
+## Triage Counts Summary
+
+| category   |   images |   pair_FH |   trio_FHP |   any_anthropomorphic |
+|:-----------|---------:|----------:|-----------:|----------------------:|
+| Action     |      100 |        24 |         24 |                    99 |
+| Affective  |      100 |        28 |         28 |                    77 |
+| Social     |      100 |        43 |         43 |                   100 |
+| nan        |      300 |        95 |         95 |                   276 |

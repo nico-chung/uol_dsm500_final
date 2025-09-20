@@ -1,0 +1,7 @@
+category,unique_fixation_count_mean,entropy_mean,std_intensity_mean
+Action,344.98,8.422,0.013
+Affective,357.79,8.476,0.013
+Social,375.82,8.55,0.013
+Indoor,350.15,8.446,0.013
+OutdoorManMade,345.15,8.426,0.013
+OutdoorNatural,320.88,8.318,0.012

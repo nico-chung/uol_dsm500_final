@@ -1,0 +1,2 @@
+root ::= "{\"animate\": " boolean "}"
+boolean ::= "true" | "false"

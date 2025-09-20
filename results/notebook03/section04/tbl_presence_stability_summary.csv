@@ -1,0 +1,5 @@
+metric,n,agree_seed,pct_agree_seed,agree_jpeg,pct_agree_jpeg
+has_human,15,15,100.0,14,93.33333333333333
+human_visible,15,15,100.0,14,93.33333333333333
+has_face,15,15,100.0,14,93.33333333333333
+has_hand,15,13,86.66666666666667,13,86.66666666666667

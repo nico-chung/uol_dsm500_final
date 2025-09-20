@@ -1,0 +1,16 @@
+category,filename,image_path,old_has_human,old_human_visible,old_has_face,old_has_hand,new_seed_has_human,new_seed_human_visible,new_seed_has_face,new_seed_has_hand,new_jpeg_has_human,new_jpeg_human_visible,new_jpeg_has_face,new_jpeg_has_hand,agree_seed_has_human,agree_jpeg_has_human,agree_seed_human_visible,agree_jpeg_human_visible,agree_seed_has_face,agree_jpeg_has_face,agree_seed_has_hand,agree_jpeg_has_hand
+Action,155.jpg,data/CAT2000/trainSet/Stimuli/Action/155.jpg,1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1
+Action,197.jpg,data/CAT2000/trainSet/Stimuli/Action/197.jpg,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Affective,083.jpg,data/CAT2000/trainSet/Stimuli/Affective/083.jpg,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,1,0,1,0
+Social,193.jpg,data/CAT2000/trainSet/Stimuli/Social/193.jpg,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Action,031.jpg,data/CAT2000/trainSet/Stimuli/Action/031.jpg,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1
+Social,113.jpg,data/CAT2000/trainSet/Stimuli/Social/113.jpg,1,1,0,0,1,1,0,1,1,1,0,0,1,1,1,1,1,1,0,1
+Social,063.jpg,data/CAT2000/trainSet/Stimuli/Social/063.jpg,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1
+Social,105.jpg,data/CAT2000/trainSet/Stimuli/Social/105.jpg,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1
+Affective,103.jpg,data/CAT2000/trainSet/Stimuli/Affective/103.jpg,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1
+Social,051.jpg,data/CAT2000/trainSet/Stimuli/Social/051.jpg,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1
+Affective,155.jpg,data/CAT2000/trainSet/Stimuli/Affective/155.jpg,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Affective,037.jpg,data/CAT2000/trainSet/Stimuli/Affective/037.jpg,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,0
+Social,147.jpg,data/CAT2000/trainSet/Stimuli/Social/147.jpg,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1
+Social,137.jpg,data/CAT2000/trainSet/Stimuli/Social/137.jpg,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1
+Social,067.jpg,data/CAT2000/trainSet/Stimuli/Social/067.jpg,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1

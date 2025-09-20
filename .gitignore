@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.conda/
+llama.cpp/
+lang-segment-anything/
+data/
+models/
+results/notebook04/section02/masks/
+results/notebook04/section02/overlays/
+results/notebook04/section04/curated_overlays/
+results/notebook04/section05/class_unions/

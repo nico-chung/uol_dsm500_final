@@ -1,0 +1,8 @@
+## Cohort2 Summary
+
+| category   |   n_candidates |   n_accepted |   n_discarded |
+|:-----------|---------------:|-------------:|--------------:|
+| Action     |             99 |           12 |            87 |
+| Affective  |             77 |           10 |            67 |
+| Social     |            100 |           10 |            90 |
+| Global     |            276 |           32 |           244 |

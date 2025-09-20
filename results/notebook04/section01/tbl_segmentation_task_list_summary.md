@@ -1,0 +1,7 @@
+## Segmentation Task List Summary
+
+| category   |   n_images |   run_person |   run_face |   run_hand |
+|:-----------|-----------:|-------------:|-----------:|-----------:|
+| Action     |         99 |           99 |         39 |         40 |
+| Affective  |         77 |           77 |         56 |         36 |
+| Social     |        100 |          100 |         65 |         49 |

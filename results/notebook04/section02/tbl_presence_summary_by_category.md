@@ -1,0 +1,4 @@
+## Presence Summary by Category
+
+| category   | images   | has_human   | human_visible   | has_face   | has_hand   | has_human_valid   | human_visible_valid   | has_face_valid   | has_hand_valid   | has_human_prop_all   | has_human_prop_valid   | human_visible_prop_all   | human_visible_prop_valid   | has_face_prop_all   | has_face_prop_valid   | has_hand_prop_all   | has_hand_prop_valid   |
+|------------|----------|-------------|-----------------|------------|------------|-------------------|-----------------------|------------------|------------------|----------------------|------------------------|--------------------------|----------------------------|---------------------|-----------------------|---------------------|-----------------------|
